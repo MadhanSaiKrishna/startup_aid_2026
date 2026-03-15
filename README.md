@@ -6,8 +6,8 @@ It includes masterclasses, challenges, prototyping sessions, and a final pitch c
 **Reference:** https://ecell.iiit.ac.in/startup-aid/
 
  
--  ### Ideation & Market Analysis - 
-- ### Mentor Cafe - I
+-  ### Ideation & Market Analysis - [Challenge 1-A Submission](./challenge_1_A.md)
+- ### Mentor Cafe - I - [Elevator Pitch](./elevator_pitch.pdf)
 - ### Financing
 - ### Software Prototyping
 - ### Mentor Cafe - II
